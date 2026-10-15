@@ -13,9 +13,9 @@ Você controla uma menininha que está numa floresta, o objetivo é pegar todas 
 - quando se coleta todas as maçãs, você termina o jogo 
  
 ## O que o projeto contém 
-- **Scripts:** GerenciadorDePortas, interação, jogador, porta. 
-- **Objetos principais:** Porta (1), Porta (2), Porta (3), Beta_Joints, Beta_Surface, Jogador, Chão. 
-- **Recursos usados:** MeshCollider, RigyBody, TextMeshPRO, BoxCollider, CharacterController.
+- **Scripts:**  MovimentoPersonagem. 
+- **Objetos principais:** cenario, Jogador, arvore, maça. 
+- **Recursos usados:** MeshCollider, RigyBody, BoxCollider, CharacterController.
  
 ## Controles 
 - W – vai pra frente, S - vai pra trás, A - vai pra esquerda, S - vai pra direita 
